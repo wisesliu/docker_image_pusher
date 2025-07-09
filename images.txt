@@ -1,1 +1,1 @@
-minio:8.4.3
+minio:RELEASE.2024-06-25T02-44-54Z
