@@ -1,1 +1,1 @@
-fishaudio/fish-speech:latest
+seannmoser/f5-tts:v0.1.1
