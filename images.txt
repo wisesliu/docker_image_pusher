@@ -1,1 +1,1 @@
-seannmoser/f5-tts:v0.1.1
+python:3.12-slim
